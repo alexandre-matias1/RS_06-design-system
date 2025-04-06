@@ -1,1 +1,15 @@
 node_modules
+package-lock.json
+dist
+.vscode
+.DS_Store
+.idea
+*.iml
+*.log
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+*.sublime-metadata
+*.sublime-gulp  
